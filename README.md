@@ -9,6 +9,8 @@ Every day I learn something new, and I would like to have it documented.
 
 ## Ideas
 
+Ideas for Blog Posts.
+
 ## Go Desing Patterns
 
 - [Singleton](./code/go/singleton/main.go)
