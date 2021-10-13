@@ -2,6 +2,7 @@
 title = "Generate Lorem Ipsum on Go"
 description = "How to generate Lorem Ipsum on Go"
 date = "2021-10-12"
+summary= "Learn how to generate Lorem Ipsum on Go"
 tags = ["go"]
 draft = false
 author = "UltiRequiem"
