@@ -1,12 +1,14 @@
 +++
 title = "Generate Lorem Ipsum on Go"
+description = "How to generate Lorem Ipsum on Go"
 date = "2021-10-12"
 tags = ["go"]
 draft = false
 author = "UltiRequiem"
 +++
 
-Lorem ipsum is a placeholder text commonly used to demonstrate the visual form
+[Lorem ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum)
+is a placeholder text commonly used to demonstrate the visual form
 of a document or a typeface without relying on meaningful content.
 
 Here is a snippet to generate Lorem Ipsum quickly and easily.
