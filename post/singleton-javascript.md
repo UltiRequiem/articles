@@ -3,7 +3,7 @@ title = "How to do a Singleton in JavaScript"
 description = "How to Generate a Singleton in JavaScript"
 date = "2021-10-30"
 summary= "Learn how to generate a Singleton in JavaScript / Typescript"
-tags = ["java", "typescript"]
+tags = ["javascript", "typescript"]
 draft = false
 author = "UltiRequiem"
 +++
