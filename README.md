@@ -13,7 +13,7 @@ Ideas for Blog Posts.
 
 ## JavaScript Tutorial Series: From 0 to and API and a Discord Bot
 
-- Part one:
+- [Part one](./post/js-tutorials-01.md):
 
   - What is a variable?
 
@@ -21,7 +21,11 @@ Ideas for Blog Posts.
 
   - What is a function?
 
-## Go Desing Patterns
+## JavaScript
+
+- Weird Stuff Cheatsheet
+
+## Go Design Patterns
 
 - [Singleton](./code/go/singleton/main.go)
 
