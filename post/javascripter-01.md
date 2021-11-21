@@ -20,7 +20,7 @@ but in the following parts you will need a text editor,
 like [NeoVim](https://neovim.io) or [VSCode](https://code.visualstudio.com),
 installed and [Node.js](https://nodejs.org).
 
-You can execute the code from this article in [your browser's console](https://techdows.com/2014/09/how-to-run-javascript-commands-in-chrome-and-firefox-browsers.html).
+You can execute the code from this article in [your browser's console](https://stackoverflow.com/a/51145033/14720975).
 
 ## Variables
 
