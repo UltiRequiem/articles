@@ -179,3 +179,8 @@ const myFavoriteNumber = sum(3, 4);
 
 console.log(myFavoriteNumber);
 ```
+
+This is the first part of a series of tutorial, don't forget to follow me
+on [Twitter](https://twitter.com/UltiRequiem) and
+[Reddit](https://www.reddit.com/u/UltiRequiem) as UltiRequiem to know
+when the next part comes out.
