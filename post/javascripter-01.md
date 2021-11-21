@@ -129,3 +129,53 @@ or the browser it exists.
 
 > Node.js and Deno are runtime for JavaScript, I will explain more in depth
 > this later, but basically we use them to execute JavaScript in a computer.
+
+
+If you want to print a value or a variable in the console, you need to use
+the `console.log()` function.
+
+E.g:
+
+```javascript
+const helloWorld = "Hello World";
+console.log(helloWorld);
+```
+
+You can also define your own function, for example:
+
+```javascript
+function sum(numberOne, numberTwo) {
+  const numberOnePlusNumberTwo = numberOne + numberTwo;
+  return numberOnePlusNumberTwo;
+}
+```
+
+Again lets break this snippet into parts:
+
+1. You start with the `function` keyword to tell JavaScript
+   that what follows is a `function`.
+
+2. We open `{` at the beginning of the function and `}` at the to
+   define the range of the block.
+
+3. We store the value of `numberOne` plus `numberTwo` in
+   the `numberOnePlusNumberTwo` constant.
+
+4. We use the `return` keyword to return the `numberOnePlusNumberTwo` value
+   as result of the `function`
+
+Congratulations! You have written your first function in JavaScript, so far you
+learned about variables, data types and functions.
+
+Here is an example using all we have used until the moment:
+
+```javascript
+function sum(numberOne, numberTwo) {
+  const numberOnePlusNumberTwo = numberOne + numberTwo;
+  return numberOnePlusNumberTwo;
+}
+
+const myFavoriteNumber = sum(3, 4);
+
+console.log(myFavoriteNumber);
+```
