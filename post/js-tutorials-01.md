@@ -1,5 +1,5 @@
 +++
-title = "From beginner to JavaScriptician"
+title = "From beginner to JavaScripter"
 description = "Variables, Data Types and Functions (From beginner to JavaScriptician, Part One)"
 date = "2021-11-20"
 summary= "Learn about variables, constants, data types and functions of JavaScript."
@@ -8,7 +8,7 @@ draft = false
 author = "UltiRequiem"
 +++
 
-# From beginner to JavaScriptician
+# From beginner to JavaScripter
 
 ## Variables
 
@@ -109,17 +109,20 @@ and may return something.
 There are some global scoped function, this means that you can use it anywhere,
 that are already defined. E.g:
 
-- [`parseint`]()
+- [`parseInt`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt)
 
-- [`encodeURI`]()
+- [`encodeURI`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURI)
 
-- [`eval`]()
+- [`eval`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval)
 
 - etc
 
 Depending where you are running JavaScript there are going to be
 different global scoped functions, for example, the `prompt` function
-doesn't exists on [Node.js]() while in [Deno]() or the browser it exists.
+doesn't exists on [Node.js](https://nodejs.org) while in [Deno](https://deno.land)
+or the browser it exists.
+
+> Node.js and Deno are runtime for JavaScript
 
 If you want to print a value or a variable in the console, you need to use
 the `console.log()` function.
@@ -171,4 +174,6 @@ console.log(myFavoriteNumber);
 ```
 
 This is the first part of a series of tutorial, don't forget to follow me
-on [Twitter]() or [Reddit]() as UltiRequiem to know when the next part comes out.
+on [Twitter](https://twitter.com/UltiRequiem) and
+[Reddit](https://www.reddit.com/u/UltiRequiem) as UltiRequiem to know
+when the next part comes out.
