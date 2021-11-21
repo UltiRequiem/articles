@@ -15,6 +15,11 @@ way by doing projects and challenges.
 
 In this chapter you will learn the basics of JavaScript.
 
+It is not necessary that you have anything installed in this part,
+but in the following parts you will need a text editor,
+like [NeoVim](https://neovim.io) or [VSCode](https://code.visualstudio.com),
+installed and [Node.js](https://nodejs.org).
+
 ## Variables
 
 A variable is a place that you can assign to a certain value.
@@ -129,7 +134,6 @@ or the browser it exists.
 
 > Node.js and Deno are runtime for JavaScript, I will explain more in depth
 > this later, but basically we use them to execute JavaScript in a computer.
-
 
 If you want to print a value or a variable in the console, you need to use
 the `console.log()` function.
