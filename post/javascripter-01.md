@@ -98,8 +98,8 @@ const iLikePizza = true;
 
 - `array`
 
-(Although this is technically not a type in JavaScript, an `[]` or `new Array()`
-its of type `object`, I'm considering it a type for educational reasons.)
+> Although this is technically not a type in JavaScript, an `[]` or `new Array()`
+its of type `object`, I'm considering it a type for educational reasons.
 
 E.g:
 
@@ -135,7 +135,7 @@ doesn't exists on [Node.js](https://nodejs.org) while in [Deno](https://deno.lan
 or the browser it exists.
 
 > Node.js and Deno are runtime for JavaScript, I will explain more in depth
-> this later, but basically we use them to execute JavaScript in a computer.
+> this later, but basically we use them to execute JavaScript outside the browser.
 
 If you want to print a value or a variable in the console, you need to use
 the `console.log()` function.
