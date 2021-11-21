@@ -10,6 +10,11 @@ author = "UltiRequiem"
 
 # From beginner to JavaScripter
 
+In this series of tutorials you will learn JavaScript in a practical
+way by doing projects and challenges.
+
+In this chapter you will learn the basics of JavaScript.
+
 ## Variables
 
 A variable is a place that you can assign to a certain value.
