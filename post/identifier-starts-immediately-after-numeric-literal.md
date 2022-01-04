@@ -16,7 +16,7 @@ Example using
 method:
 
 ```javascript
-const sentence = "The quick brown fox jumps over the lazy dog.".toLowerCase();
+const sentence = "A cool sentence".toLowerCase();
 
 console.log(sentence);
 ```
