@@ -21,8 +21,7 @@ const sentence = "The quick brown fox jumps over the lazy dog.".toLowerCase();
 console.log(sentence);
 ```
 
-But this will not work with a number literal, example using [`.toString`]
-(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toString):
+But this will not work with a number literal, example using [`.toString`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toString):
 
 ```javascript
 console.log(234.toString());
