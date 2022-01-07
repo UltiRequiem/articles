@@ -1,25 +1,34 @@
-class DataBase {
+import exampleDB from "exampledb";
+
+export class DataBase {
   constructor() {
-    DBDriver.connect();
+    this.connection = exampleDB();
+  }
+  getLink(id) {
+    return this.connection.get(id);
   }
 
-  async getLink(id) {
-    // Do stuff
-  }
-
-  async deleteByID(id) {
-    // Do other stuff
+  deleteByID(id) {
+    return connection.delete(id);
   }
 }
 
-const DataBaseTwo = {
-  getLink: (id) => {
-    // Do stuff
-  },
+export function generateDB() {
+  if (!generateDB.instance) {
+    generateDB.instance = {
+      connection: exampleDB(),
 
-  deleteByID: (id) => {
-    // Do other stuff
-  },
-};
+      getLink(id) {
+        return this.connection.get(id);
+      },
+
+      deleteByID(id) {
+        this.connection.delete(id);
+      },
+    };
+  }
+
+  return generateDB.instance;
+}
 
 export default new DataBase();
