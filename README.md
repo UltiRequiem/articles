@@ -1,3 +1,7 @@
+# archived
+
+My blog is now built using [HashNode](https://hashnode.com).
+
 # [ultirequiem.com](https://ultirequiem.com)
 
 [Pull requests](https://github.com/UltiRequiem/articles)
@@ -23,7 +27,7 @@ Ideas for Blog Posts.
 
 ## JavaScript
 
-- Weird Stuff Cheatsheet
+- Weird Stuff CheatSheet
 
 ## Go Design Patterns
 
