@@ -1,16 +1,10 @@
-+++
-title = "Generate Lorem Ipsum on Go"
-description = "How to generate Lorem Ipsum on Go"
-date = "2021-10-12"
-summary= "Learn how to generate Lorem Ipsum on Go"
-tags = ["go"]
-draft = false
-author = "UltiRequiem"
-+++
++++ title = "Generate Lorem Ipsum on Go" description = "How to generate Lorem
+Ipsum on Go" date = "2021-10-12" summary= "Learn how to generate Lorem Ipsum on
+Go" tags = ["go"] draft = false author = "UltiRequiem" +++
 
-[Lorem ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum)
-is a placeholder text commonly used to demonstrate the visual form
-of a document or a typeface without relying on meaningful content.
+[Lorem ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum) is a placeholder text
+commonly used to demonstrate the visual form of a document or a typeface without
+relying on meaningful content.
 
 Here is a snippet to generate Lorem Ipsum quickly and easily.
 
@@ -49,8 +43,8 @@ func Sentence(words int) string {
 
 `Sentence` will return something like: `"Consectetur eget tempus ipsum sapien."`
 
-If you prefer an external package to take care of this,
-you can use [Lorelai](https://github.com/UltiRequiem/lorelai).
+If you prefer an external package to take care of this, you can use
+[Lorelai](https://github.com/UltiRequiem/lorelai).
 
 ```go
 package main
@@ -77,4 +71,5 @@ func sayHi() {
 }
 ```
 
-You can see Lorelai's docs [here](https://github.com/UltiRequiem/lorelai#documentation).
+You can see Lorelai's docs
+[here](https://github.com/UltiRequiem/lorelai#documentation).

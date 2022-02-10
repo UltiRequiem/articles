@@ -2,10 +2,16 @@
 
 My blog is now built using [HashNode](https://hashnode.com).
 
+[Send me an email](mailto:eliaz.bobadilladev@gmail.com),
+[write me on Telegram](https://t.me/UltiRequiem) or in the comment section of
+the blog to report an Issue or Idea.
+
+[blog.ultirequiem.com](https://blog.ultirequiem.com)
+
 # [ultirequiem.com](https://ultirequiem.com)
 
-[Pull requests](https://github.com/UltiRequiem/articles)
-with corrections or suggestions are appreciated.
+[Pull requests](https://github.com/UltiRequiem/articles) with corrections or
+suggestions are appreciated.
 
 The blog is generated with [Hugo](https://gohugo.io).
 
